@@ -36,17 +36,13 @@ El código está organizado en varios paquetes que representan las capas de la a
 
 1. Clona el repositorio:
 
-`git clone URL_DEL_REPOSITORIO`
+`git clone https://github.com/soocratess/ParqueGallaecia/tree/main/src`
 
 
-2. Navega al directorio del proyecto y compila los archivos:
-
-`javac *.java`
+2. Navega al directorio del proyecto y compila los archivos
 
 
-3. Ejecuta la aplicación:
-
-`java Main`
+3. Ejecuta la aplicación
 
 
 ## Contribuir
