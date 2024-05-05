@@ -36,7 +36,7 @@ El código está organizado en varios paquetes que representan las capas de la a
 
 1. Clona el repositorio:
 
-`git clone https://github.com/soocratess/ParqueGallaecia/tree/main/src`
+`git clone https://github.com/soocratess/ParqueGallaecia`
 
 
 2. Navega al directorio del proyecto y compila los archivos
